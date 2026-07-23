@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi 👋, I'm Shivam Tripathi<br><br>💻 Passionate Java Full Stack Developer from India.<br><br>## 🚀 About Me<br>- 🎓 BCA Graduate (2025)<br>- 🌱 Currently learning **Spring Boot, React, and Data Structures & Algorithms**<br>- 💡 Interested in Full Stack Development and Software Engineering<br>- 🔭 Building real-world Java & MERN projects<br>- 📚 Exploring System Design and Backend Development<br>- 🎯 Goal: Become a skilled Java Full Stack Developer
+ 💫 About Me:
+Hi 👋, I'm Shivam Tripathi<br><br>💻 Passionate Java Full Stack Developer<br><br>🚀 About Me<br>- 🎓 BCA Graduate (2025)<br>🌱 Currently learning **Spring Boot, React, and Data Structures & Algorithms**<br>💡 Interested in Full Stack Development <br>🔭 Building real-world Java & MERN projects<br>📚 Exploring System Design and Backend Development<br>🎯 Goal: Become a skilled Java Full Stack Developer
 
 
 ## 🌐 Socials:
